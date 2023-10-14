@@ -1,0 +1,47 @@
+/* CSS untuk elemen utama aplikasi */
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* CSS untuk tautan yang aktif pada router */
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+/* CSS untuk tombol utama */
+.btn-primary {
+    background-color: #4e70b8;
+}
+
+/* CSS untuk badge utama */
+.badge-primary {
+    background-color: #4e70b8;
+}
+
+/* CSS untuk kartu produk */
+.card-product {
+    border-radius: 15px;
+}
+
+/* CSS untuk gambar utama pada kartu produk */
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+/* CSS untuk elemen breadcrumb */
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+/* CSS untuk elemen breadcrumb yang aktif */
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+/* CSS untuk gambar yang responsif */
+.img-fluid {
+    border-radius: 15px;
+}

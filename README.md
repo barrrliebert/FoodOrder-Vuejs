@@ -1,24 +1,24 @@
-# FoodOrder
-<p>Simple web dinamis menggunakan VueJS & json API</p>
+# kulineran
 
-## Install JSON Server
-
-```
-npm install -g json-server
-```
-
-## Start JSON Server
-
-```
-json-server --watch db.json
-```
-
-## VueJs Start
+## Project setup
 ```
 npm install
 ```
 
-### Run VueJS
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
