@@ -1,24 +1,11 @@
-# kulineran
-
-## Project setup
+# FoodOrder
+<h1>Simple FoodOrder Menggunakan VueJS & Json API</h1>
+## Startup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start VueJS
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
