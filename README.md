@@ -1,12 +1,22 @@
 # FoodOrder
 <h1>Simple FoodOrder Menggunakan VueJS & Json API</h1>
 
-## Startup
+## Install JSON Server
+```
+npm install -g json-server
+```
+
+## Start JSON Server
+```
+json-server --watch db.json
+```
+
+## VueJs Start
 ```
 npm install
 ```
 
-### Start VueJS
+## Run VueJS
 ```
 npm run serve
 ```
