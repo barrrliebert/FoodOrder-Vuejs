@@ -1,4 +1,5 @@
-# FoddOrder
+# FoodOrder
+<p>Simple web dinamis menggunakan VueJS & json API</p>
 
 ## Install JSON Server
 
