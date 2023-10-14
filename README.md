@@ -13,12 +13,12 @@ npm install -g json-server
 json-server --watch db.json
 ```
 
-## Project setup
+## VueJs Start
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run VueJS
 ```
 npm run serve
 ```
